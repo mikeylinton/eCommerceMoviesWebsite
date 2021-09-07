@@ -1,0 +1,89 @@
+body {
+    font-family: Helvetica; 
+    background-color: #dadada;
+}
+
+body p {
+    font-family: Helvetica; 
+    font-size: 16px;
+    line-height: 1.28;
+}
+
+
+footer {
+    font-family: Helvetica;
+    clear: both;
+    width: auto;
+    border: 3px solid #ffffff;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0.1em 0.1em #333;
+    background-color: #003c71;
+}
+
+#section {
+    font-family: Helvetica; 
+    width: 1080px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid #dadada;
+}
+
+#topbar {
+    font-family: Helvetica; 
+    background-color: #003c71;
+    font-size: 16px;
+    color: #dadada;
+    padding: 60px;
+}
+
+
+#movie_entry {
+    font-family: Helvetica; 
+    float: left;
+    width: 1024px;
+    padding: 10px;
+}
+
+#navBar {
+    font-family: Helvetica; 
+    height: 60px;
+    border: 3px solid #dadada;
+    margin-top: 16px;
+    text-shadow: 0.1em 0.1em #333;
+    background-color: #003c71;
+}
+
+#nav {
+    font-family: Helvetica; 
+    list-style: none;
+}
+
+#nav li {
+    font-family: Helvetica; 
+    font-size: 24px;
+    float: left;
+    position: relative;
+    width: 165px;
+    height: 50px;
+}
+
+#nav a:link, nav a:active, nav a:visited {
+    font-family: Helvetica; 
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#nav a:hover {
+    font-family: Helvetica; 
+    color: lightblue;
+}
+
+#bigButton {
+    font-family: Helvetica; 
+    font-size : 16px; 
+    width: 50%; 
+    height: 100px;
+}
